@@ -4,8 +4,8 @@
             <h1>Nick The Nerd</h1>
         </div>
         <nav class="center">
-            <button type="button" class="nes-btn is-primary" v-on:click="clicked(0)">Primary</button>
-            <button type="button" class="nes-btn is-primary" v-on:click="clicked(1)">Primary</button>
+            <button type="button" class="nes-btn is-primary" v-on:click="clicked(0)">Games</button>
+            <button type="button" class="nes-btn is-primary" v-on:click="clicked(1)">App</button>
             <button type="button" class="nes-btn is-primary" v-on:click="clicked(2)">Primary</button>
             <button type="button" class="nes-btn is-primary" v-on:click="clicked(3)">Primary</button>
         </nav>
@@ -56,7 +56,7 @@ header {
 
 nav {
     gap: 20px;
-    margin-top: 15px;
+    margin: 55px 55px;
 }
 
 header img {
