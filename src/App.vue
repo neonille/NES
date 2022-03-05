@@ -45,7 +45,7 @@ header {
 .routerView {
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
     background-color: aliceblue;
-    padding: 500px;
+    padding: 400px;
 }
 
 .center {
@@ -70,5 +70,6 @@ body {
 
 #app {
     background-color: beige;
+    height: 100vh;
 }
 </style>
